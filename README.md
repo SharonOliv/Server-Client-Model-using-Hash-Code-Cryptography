@@ -19,20 +19,10 @@ It includes:
 - Encrypt and decrypt messages using AES symmetric encryption.
 - Ensure data integrity by verifying message hashes after decryption.
 
----
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - Cryptography library (for AES, Diffie-Hellman)
 - hashlib (for SHA-512)
 
----
 
-## 🚀 How to Run
-> _(Optional section you can add if you want instructions for users)_
-
----
-
-### ⚡ Short GitHub Description
-> "Secure message transmission using Diffie-Hellman key exchange, AES encryption, and SHA-512 hashing to ensure confidentiality and integrity."
